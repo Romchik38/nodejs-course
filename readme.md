@@ -5,7 +5,13 @@
 * [Официальная документация по NodeJs v.16](https://nodejs.org/dist/latest-v16.x/docs/api/)
 
 ## Примеры
-Приведены выборочные примеры методов. 
+Приведены выборочные примеры методов.
 
 ### FS
 Примеры по файловой системе.
+  * callback api
+  * promise
+  * class WriteStream
+
+### Process
+Примеры Process.
