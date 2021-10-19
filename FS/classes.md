@@ -12,7 +12,7 @@
   * Callback    --> opendir()
   * Synchronous --> opendirSync()
 
-  - async iterator
+  **async iterator**
 
 ## Dirent
 
@@ -20,25 +20,25 @@
   * Callback    --> readdir()
   * Synchronous --> readdirSync()
 
-  - object
+  **object**
 
 ## class FSWatcher
 
   * Callback --> watch()
 
-  - EventEmitter
+  **EventEmitter**
 
 ## class StatWatcher
 
   * Callback --> watchFile()
 
-  - EventEmitter
+  **EventEmitter**
 
 ## class ReadStream
 
   * Callback --> createReadStream()
 
-  - [ReadStream](https://nodejs.org/dist/latest-v17.x/docs/api/fs.html#class-fsreadstream) extends [stream.Readable](https://nodejs.org/dist/latest-v17.x/docs/api/stream.html#class-streamreadable)
+  **[ReadStream](https://nodejs.org/dist/latest-v17.x/docs/api/fs.html#class-fsreadstream) extends [stream.Readable](https://nodejs.org/dist/latest-v17.x/docs/api/stream.html#class-streamreadable)**
 
 ## class Stats
 
@@ -53,4 +53,4 @@
 
   * Callback --> createWriteStream()
 
-  - [WriteStream](https://nodejs.org/dist/latest-v17.x/docs/api/fs.html#class-fswritestream) extends [stream.Writable](https://nodejs.org/dist/latest-v17.x/docs/api/stream.html#class-streamwritable)
+  **[WriteStream](https://nodejs.org/dist/latest-v17.x/docs/api/fs.html#class-fswritestream) extends [stream.Writable](https://nodejs.org/dist/latest-v17.x/docs/api/stream.html#class-streamwritable)**
