@@ -4,7 +4,8 @@
 
   * fsPromises --> open()
 
-  - extends EventEmitter
+  **extends EventEmitter**
+
 
 ## class Dir
 

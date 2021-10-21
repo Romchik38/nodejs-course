@@ -7,15 +7,18 @@
 ## Примеры
 Приведены выборочные примеры методов.
 
+###Buffer
+Примеры с Buffer, TypedArray, ArrayBuffer
+
+### Process
+Примеры Process.
+
 ### FS
 
 Примеры по файловой системе.
   * callback api
   * promise
   * class WriteStream
-
-### Process
-Примеры Process.
 
 ## Таблицы и списки
 
