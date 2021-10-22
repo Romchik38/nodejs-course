@@ -7,7 +7,7 @@
 ## Примеры
 Приведены выборочные примеры методов.
 
-###Buffer
+### Buffer
 Примеры с Buffer, TypedArray, ArrayBuffer
 
 ### Process
